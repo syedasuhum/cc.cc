@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(128, 128, 128, 0.17);
+}
+    
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 0 20px;
+}
+
+.nav-logo img{
+   width: 70px;
+   padding-top: 10px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul li{
+    border-radius: 4px;
+    transition: all 0.3s ease-in-out;
+    padding-bottom: 5px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #333;
+    font-size: 1.4em;
+}
+
+nav ul li:hover{
+    background: #93d6d7;
+    color: #ffff;
+    padding: 5px;
+}
+nav ul li a:hover{
+    color: #ffff;
+}
+
+.btn {
+    background-color: #fff;
+    color: #333;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .btn.sign-in {
+    background-color: #fff;
+    color: #93d6d7;
+    border: 1px solid #fff;
+   
+  }
+  .btn.sign-in:hover {
+    background-color: #fff;
+    color: #93d6d7;
+  }
+  
+  .btn.sign-up {
+    background-color: #fff;
+    color: #93d6d7;
+  }
+  
+  .btn.sign-up:hover {
+    background-color: #fff;
+    color: #93d6d7;
+  }
+
+
+
+
+/* Media query */
+@media (min-width: 788px) {
+     nav ul{
+        flex-direction: row;
+     }
+     nav ul li {
+        padding: 10px;
+     }
+}

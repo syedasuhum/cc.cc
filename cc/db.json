@@ -1,0 +1,1990 @@
+{
+  "users": [
+    {
+      "linkUrl": "watches/watches1",
+      "id": "watches1",
+      "price": 1000,
+      "img": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._AC_SY200_.jpg",
+      "category": "watches",
+      "details": {
+        "title": "Smart Watch with Bluetooth",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41-zB3M31dL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81DEzbJ9ERL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71tOBelnDYL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1000",
+            "offer": "95",
+            "totalPrice": "19,999"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "HD display makes the display clear and true-to-life, with vivid colours ensuring smooth readability"
+          },
+          {
+            "theory": "This fashion smart watch will work on a single charge for about 8 days"
+          },
+          {
+            "theory": "The watch needs to be charged for 2 hours to reach 100%."
+          },
+          {
+            "theory": "You cannot store Music in the watch, you can only control the music."
+          },
+          {
+            "theory": "There is no volume control, however when connected to bt calling you can control the volume of the call"
+          },
+          {
+            "theory": "Supported Applications - Notifcations from all social media channels (Instagram, Whatsapp, Facebook)"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men1",
+      "id": "men1",
+      "price": 849,
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/61pCn6DowvS._AC_UL160_SR160,160_.jpg",
+      "category": "men",
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men2",
+      "id": "men2",
+      "img": "https://images-eu.ssl-images-amazon.com/images/I/91DEZhRh3pL._AC_UL160_SR160,160_.jpg",
+      "category": "men",
+      "price": 1049,
+      "details": {
+        "title": "fashion you Men's T-Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/81ANDZ0npRL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81SNt4xFHrL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81ECBt0pMHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81RLddKvS-L._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1049",
+            "offer": "59",
+            "totalPrice": "1,849"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches2",
+      "id": "watches2",
+      "img": "https://m.media-amazon.com/images/I/71XBcl6bNjL._AC_SY200_.jpg",
+      "category": "watches",
+      "price": 2499,
+      "details": {
+        "title": "Noise ColorFit Ultra 3 Bluetooth",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41O7YJM+9+L._SY300_SX300_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71FL-bciTJL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-TxwVwqBL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71NNWwERunL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "2,499",
+            "offer": "69",
+            "totalPrice": "7,999"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Heart Rate Monitor"
+          },
+          {
+            "theory": "Activity Tracker"
+          },
+          {
+            "theory": "Calorie Tracker"
+          },
+          {
+            "theory": "Oxymeter (SpO2); Notifications"
+          },
+          {
+            "theory": "Age Range Description: Youth; Item Weight: 45.0g; Closure Type: Buckle; Compatible Phone Models"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women1",
+      "id": "women1",
+      "price": 489,
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/Newseaosnfinds/Modern_Midis._SY530_QL85_FMpng_.png",
+      "category": "women",
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men3",
+      "id": "men3",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/MA/may/ART/SD/Casual_Shirts_978x1301.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men4",
+      "id": "men4",
+      "img": "https://images-eu.ssl-images-amazon.com/images/G/31/img24/MA/may/ART/SD/Classic_Jeans_copy_2.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men5",
+      "id": "men5",
+      "img": "https://m.media-amazon.com/images/G/31/img21/MA2024/SS24flip/Brandsinfocus/Symbol._SX564_QL85_FMpng_.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men6",
+      "id": "men6",
+      "img": "https://m.media-amazon.com/images/G/31/img21/MA2024/SS24flip/Brandsinfocus/Red_Tape._SX564_QL85_FMpng_.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men7",
+      "id": "men7",
+      "img": "https://m.media-amazon.com/images/G/31/img21/MA2024/SS24flip/Brandsinfocus/Arrow-40-60_Off_775x1090._SX564_QL85_FMpng_.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men8",
+      "id": "men8",
+      "img": "https://m.media-amazon.com/images/G/31/img21/MA2024/SS24flip/Sportswear/Jerseys._SY530_QL85_FMpng_.png",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "men/men9",
+      "id": "men9",
+      "img": "https://m.media-amazon.com/images/G/31/img21/MA2024/SS24flip/Ethnic/Gemstone_Shades_copy._SS700_QL85_.jpg",
+      "category": "men",
+      "price": 849,
+      "details": {
+        "title": "Allen Solly Men's Slim Fit Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71hfutLZZ7L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/816Z0rb0UnL._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81BZZBbyl3L._SX569_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71caV57crpL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "849",
+            "offer": "49",
+            "totalPrice": "1,649"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Allen solly Mens Cotton Full sleeve Overdyed shirts with contrast logo"
+          },
+          {
+            "theory": "86% positive ratings from 100K+ customers"
+          },
+          {
+            "theory": "100K+ recent orders from this brand"
+          },
+          {
+            "theory": "Allen Solly is in for western wear for women in India and redefines work wear in India with its 'Friday Dressing' fashion concept"
+          },
+          {
+            "theory": "the brand in the industry and is with men, women and kids presence across the country."
+          },
+          {
+            "theory": "Allen Solly is a brand inspiring the birth of an entirely new consumer class."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches3",
+      "id": "watches3",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/Freebie/Get_1_smartwatch_free_copy_1_978x1432._SS800_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches4",
+      "id": "watches4",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/SS24/Selections/M/Alba_R._CB557892739_.jpg",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches5",
+      "id": "watches5",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/SS24/Selections/M/Casio._CB558506819_.jpg",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches6",
+      "id": "watches6",
+      "price": 957,
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/SS24/IB/Alexander_6._CB559681376_.png",
+      "category": "watches",
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets1",
+      "id": "headsets1",
+      "img": "https://m.media-amazon.com/images/I/31riIuaxjmL._AC_UF226,226_FMjpg_.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "fashion you Men's T-Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets2",
+      "id": "headsets2",
+      "img": "https://m.media-amazon.com/images/I/519DiIg4W8L.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "fashion you Men's T-Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets3",
+      "id": "headsets3",
+      "img": "https://m.media-amazon.com/images/I/61FA5YUYFjL.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "fashion you Men's T-Shirt",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets4",
+      "id": "headsets4",
+      "img": "https://m.media-amazon.com/images/I/61c575GViJL.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets5",
+      "id": "headsets5",
+      "img": "https://m.media-amazon.com/images/I/31BXEEUVfFL._AC_UF226,226_FMjpg_.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets6",
+      "id": "headsets6",
+      "img": "https://m.media-amazon.com/images/I/61kezU7159L._AC_UL320_.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets7",
+      "id": "headsets7",
+      "img": "https://m.media-amazon.com/images/I/51lBaqf8U-L._AC_UL320_.jpg",
+      "category": "headsets",
+      "price": 599,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41PNSmS2eIL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71tHghHvcnL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71VzIvi6mpL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/61hZYyHcYEL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "599",
+            "offer": "76",
+            "totalPrice": "2,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "[1 Year Warranty] The unique metal earbuds design highlights your taste."
+          },
+          {
+            "theory": "The costar earphones are more durable by adopting higher standards."
+          },
+          {
+            "theory": "[24 Hours Playtime, Enjoy Music All Your Day] It offers a total playtime of up to 24 hours"
+          },
+          {
+            "theory": "[Dual Equalizer] Switch between Deep bass mode and normal mode with ease of one single click."
+          },
+          {
+            "theory": "[Unique Metal Earbuds] The stylish design of the unique metal earbuds gives you comfort of listening to music and making you look cool at same time. "
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets8",
+      "id": "headsets8",
+      "img": "https://m.media-amazon.com/images/I/419Pe9doxrL._AC_UL320_.jpg",
+      "category": "headsets",
+      "price": 1099,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41Vyvj0DopL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81Z8HqdVwhL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71v4RrEj8fL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81MckMaSOwL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "1099",
+            "offer": "80",
+            "totalPrice": "5,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "51 Hours Playtime: With an astounding 51 hours of playtime"
+          },
+          {
+            "theory": "these earbuds are your ultimate companion for travel, offering non-stop entertainment"
+          },
+          {
+            "theory": "Perfect for music aficionados who despise the frequent need to recharge."
+          },
+          {
+            "theory": "Zen ENC Mic: Experience unparalleled call quality with Environmental Noise Cancellation"
+          },
+          {
+            "theory": "ensuring crystal-clear conversations in any setting. Perfect for both busy professionals and casual users."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "headsets/headsets9",
+      "id": "headsets9",
+      "img": "https://m.media-amazon.com/images/I/61DpOqDGGRL._AC_UL320_.jpg",
+      "category": "headsets",
+      "price": 599,
+      "details": {
+        "title": "COSTAR Mateband Bluetooth ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41PNSmS2eIL._SX300_SY300_QL70_FMwebp_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71tHghHvcnL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71VzIvi6mpL._SX522_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/61hZYyHcYEL._SX522_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "599",
+            "offer": "76",
+            "totalPrice": "2,499"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "[1 Year Warranty] The unique metal earbuds design highlights your taste."
+          },
+          {
+            "theory": "The costar earphones are more durable by adopting higher standards."
+          },
+          {
+            "theory": "[24 Hours Playtime, Enjoy Music All Your Day] It offers a total playtime of up to 24 hours"
+          },
+          {
+            "theory": "[Dual Equalizer] Switch between Deep bass mode and normal mode with ease of one single click."
+          },
+          {
+            "theory": "[Unique Metal Earbuds] The stylish design of the unique metal earbuds gives you comfort of listening to music and making you look cool at same time. "
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women9",
+      "id": "women9",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Meena_Bazaar_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women2",
+      "id": "women2",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Marks_and_Spencer_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women3",
+      "id": "women3",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Levis_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women4",
+      "id": "women4",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Aurelia_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women5",
+      "id": "women5",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/Newseaosnfinds/Graphic_Edit._SY530_QL85_FMpng_.png",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women6",
+      "id": "women6",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/WASD/Kurtabrands/W_for_women_564x940._SY530_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women7",
+      "id": "women7",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Gocolors_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "women/women8",
+      "id": "women8",
+      "img": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Madame_564x940._SX564_QL85_.jpg",
+      "category": "women",
+      "price": 489,
+      "details": {
+        "title": "ANNI DESIGNER Women's Cotton Blend",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71BLkd39VKL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81qfaP7RoHL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/81HHz1f8BZL._SY741_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/8159FOnj6xL._SY741_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "489",
+            "offer": "81",
+            "totalPrice": "2,599"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Kurta and Bottom Fabric: Cotton Blend || Kurta Set Color :- Green"
+          },
+          {
+            "theory": "This set includes: 1 Kurta with 1 Pant || Work : Printed || Neck Style:- Round Neck"
+          },
+          {
+            "theory": "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions."
+          },
+          {
+            "theory": "Ocassion: Traditional wear, Casual Wear, party wear, evening wear"
+          },
+          {
+            "theory": "Please Click On Brand Name 'ANNI DESIGNER' For More Products."
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches7",
+      "id": "watches7",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/LPE/Fastrack-W_9._SS400_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches8",
+      "id": "watches8",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/LPE/FCUK_37._SS400_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches9",
+      "id": "watches9",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/LPE/Maxima_31._SS400_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 2499,
+      "details": {
+        "title": "Noise ColorFit Ultra 3 Bluetooth",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/41O7YJM+9+L._SY300_SX300_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71FL-bciTJL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-TxwVwqBL._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71NNWwERunL._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "2,499",
+            "offer": "69",
+            "totalPrice": "7,999"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Heart Rate Monitor"
+          },
+          {
+            "theory": "Activity Tracker"
+          },
+          {
+            "theory": "Calorie Tracker"
+          },
+          {
+            "theory": "Oxymeter (SpO2); Notifications"
+          },
+          {
+            "theory": "Age Range Description: Youth; Item Weight: 45.0g; Closure Type: Buckle; Compatible Phone Models"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches10",
+      "id": "watches10",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/SS24/Selections/M/Alba_R._CB557892739_.jpg",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches11",
+      "id": "watches11",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/Coop/Skmei._SS800_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "linkUrl": "watches/watches12",
+      "id": "watches12",
+      "img": "https://m.media-amazon.com/images/G/31/img21/Watches2024/May/ART/Category/Coop/Titan-M_22._SS800_QL85_FMpng_.png",
+      "category": "watches",
+      "price": 957,
+      "details": {
+        "title": "TIMEX Analog Men's Watch ",
+        "images": [
+          {
+            "img": "https://m.media-amazon.com/images/I/71Kx6rgmlRS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/71-C+ZDOLbS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/618yr+4KROS._SX679_.jpg"
+          },
+          {
+            "img": "https://m.media-amazon.com/images/I/51VTIdPQjtS._SX679_.jpg"
+          }
+        ],
+        "paymentDetails": [
+          {
+            "price": "957",
+            "offer": "40",
+            "totalPrice": "1,495"
+          }
+        ],
+        "discription": [
+          {
+            "theory": "Case Shape: Round, Dial Glass Material: Mineral, Band material: Leather"
+          },
+          {
+            "theory": "Watch Movement Type: Quartz, Watch Display Type: Analog"
+          },
+          {
+            "theory": "Case Material: Brass, Case Diameter: 40 millimeters, Brass Bezel ; Case Thickness: 8.8mm"
+          },
+          {
+            "theory": "Water Resistance Depth: 30 meters, Buckle Clasp"
+          },
+          {
+            "theory": "Ideal for birthday, anniversary and wedding gift"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ab11",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "2a0c",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "47d4",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "b05f",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "ff5b",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "205f",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "b725",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "7c5d",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "895b",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "9f15",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "f994",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "d12e",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "620d",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "d61e",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "85fb",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "768f",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "8091",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "9650",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "3c19",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "bf53",
+      "status": "PAYMENT PENDING"
+    },
+    {
+      "id": "2c5a",
+      "status": "PAYMENT PENDING"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+.contant{
+    position: relative;
+  }
+  .cursor {
+    cursor: pointer;
+  } 
+  .details {
+    text-align: start;
+  }
+  
+  .offer {
+    color: crimson;
+    font-size: 30px;
+  }
+  
+  .total-offer-price {
+    font-weight: 700;
+    font-size: 30px;
+  }
+  
+  .total-price {
+    font-size: 12px;
+    color: #222222a6;
+  }
+  
+  .item-details {
+    text-align: start;
+  }
+  
+  .cart-buttons button {
+    border: none;
+    padding: 13px 25px;
+    width: 100%;
+    background-color: red;
+    color: black;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 5px;
+  }
+  
+  .cart-buttons button:hover {
+    background-color: white;
+    border: solid 1px red;
+  }
+  
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    z-index: 3333333;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {
+      padding-top: 15px;
+    }
+  
+    .sidenav a {
+      font-size: 18px;
+    }
+  }
+  
+  .contact-info {
+    text-align: start;
+  }
+  
+  .contact-info a {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+  }
+  
+  .mail {
+    padding: 0px 10px;
+  }
+  
+  .number {
+    text-align: end;
+    padding: 10px;
+  }
+  
+  .contact-info textarea {
+    margin: 10px;
+  }
+  
+  .mail,
+  .number {
+    display: inline;
+  }
+  
+  /* kkkk */
+  .arrow {
+    position: absolute;
+  }
+  
+  .arrow:hover {
+    cursor: pointer;
+  }
+  
+  .arrow-left {
+    left: 1rem;
+  }
+  
+  .arrow-right {
+    right: 1rem;
+  }
+  
+  .slide {
+    border-radius: 0.5rem;
+    box-shadow: 0px 0px 7px #666;
+    width: 347px;
+    height: 300px;
+  }
+  
+  .slide-hidden {
+    display: none;
+  }
+  .next-arrow{
+    position: absolute;
+    top: 118px;
+    left: 0;
+  }
+  .priv-arrow{
+    position: absolute;
+    top: 118px;
+    right: 0;
+  }
